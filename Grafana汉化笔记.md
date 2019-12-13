@@ -1,4 +1,3 @@
-can you copy?
 
 # Grafana汉化笔记
 
