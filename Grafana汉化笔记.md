@@ -1,3 +1,5 @@
+can you copy?
+
 # Grafana汉化笔记
 
 <a name="df368884"></a>
